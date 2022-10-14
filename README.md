@@ -30,4 +30,8 @@ APIs
 2. http://localhost:8080/item-price-history/Amla - This API returns specific ITEM asked for with its price history trend, Input : Item name need to be passed as part of URL as shown. 
 
 
+GIT HUB ACTIONS FOR CI/CD are enabled you can https://github.com/vamcspark/grocery-anlaytics/actions. Every commit is automatically recognised and build is triggered. Deployment is not configured as i need external server and any cloud compute to deploy the application
+
+
+
 
